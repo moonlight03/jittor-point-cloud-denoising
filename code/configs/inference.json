@@ -1,0 +1,13 @@
+{
+  "model": "heavy",
+  "checkpoint": "checkpoints/model_epoch_0009.pkl",
+  "patch_size": 2048,
+  "patch_batch": 12,
+  "iterations": 2,
+  "seed_k": 8,
+  "stitch": "poly",
+  "stitch_power": 1.0,
+  "rotation": "identity",
+  "seed": 2023,
+  "patch_radius_mode": "none"
+}
